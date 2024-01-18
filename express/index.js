@@ -5,5 +5,5 @@ const PORT = process.env.PORT || 8080
 const app = express()
 
 app.listen(PORT, () => {
-    console.log('server ok')
+    console.log('server ok ^_^')
 })
